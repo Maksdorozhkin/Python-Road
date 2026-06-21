@@ -1,0 +1,33 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+
+# Секреты и переменные окружения (ВАЖНО)
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# JetBrains (PyCharm, WebStorm, IntelliJ IDEA)
+.idea/
+
