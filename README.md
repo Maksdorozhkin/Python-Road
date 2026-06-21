@@ -1,0 +1,1 @@
+Python-road is my personal path into Python: notes, mini-projects, and practical steps to confidently understand syntax, core constructs, and keep moving deeper into development. A road to a more confident Python.
