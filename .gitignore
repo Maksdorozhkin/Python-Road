@@ -31,3 +31,7 @@ env/
 # JetBrains (PyCharm, WebStorm, IntelliJ IDEA)
 .idea/
 
+# Данные
+*.bin
+*.db
+
